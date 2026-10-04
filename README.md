@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pranov Raaj
+# Pranov Raaj
 
 ### Software Engineer | Backend Development | AI & Computer Vision
 
@@ -16,37 +16,41 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a Computer Science Engineering student specializing in Artificial Intelligence, focused on **software engineering, backend development, and applied AI**.
+I'm a Computer Science Engineering student specializing in Artificial Intelligence,
+focused on software engineering, backend development, and applied AI.
 
-I enjoy building practical applications that combine **backend systems, APIs, computer vision, and intelligent automation** to solve real-world problems.
+I enjoy building practical systems that combine backend architecture, APIs,
+computer vision, and intelligent automation to solve real-world problems.
 
-- 🎓 Computer Science Engineering — Artificial Intelligence
-- 💻 Focused on **Java, Spring Boot, REST APIs, and Backend Engineering**
-- 🤖 Interested in **AI/ML, Computer Vision, and AI-powered applications**
-- 🧠 Consistently practicing **Data Structures & Algorithms**
-- 🔨 Building projects with **Java, Python, React, Flutter, and AI technologies**
-- ☁️ Exploring **Cloud, System Design, and scalable backend architecture**
-- 🏀 Competitive basketball & netball player
+- Computer Science Engineering — Artificial Intelligence
+- Focused on Java, Spring Boot, REST APIs, and backend engineering
+- Interested in AI/ML, Computer Vision, and AI-powered applications
+- Regularly practicing Data Structures and Algorithms
+- Building applications with Java, Python, React, Flutter, and AI technologies
+- Currently strengthening my knowledge of System Design, Cloud, and scalable backend architecture
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
 </p>
 
 ### Backend & Databases
+
 <p>
   <img src="https://skillicons.dev/icons?i=spring,nodejs,express,mongodb,postgresql" />
 </p>
 
 **Backend:** Java · Spring Boot · REST APIs · JWT · Authentication · Microservices
 
-### AI / Machine Learning
+### AI & Computer Vision
+
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
 </p>
@@ -54,128 +58,151 @@ I enjoy building practical applications that combine **backend systems, APIs, co
 **AI / CV:** MediaPipe · Computer Vision · TensorFlow · OpenCV · RAG · LangChain · MCP
 
 ### Frontend & Mobile
+
 <p>
   <img src="https://skillicons.dev/icons?i=react,vite,flutter,dart,androidstudio" />
 </p>
 
 ### Cloud & Tools
+
 <p>
   <img src="https://skillicons.dev/icons?i=aws,firebase,docker,git,github,postman,vscode" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
-## 👁️ EyeScroll — Hands-Free Short-Video Interaction
+## EyeScroll — Hands-Free Short-Video Interaction
 
-> An accessibility-focused Android application that enables hands-free interaction with short-form video platforms using eye and facial gestures.
+**EyeScroll** is an accessibility-focused Android application that enables
+hands-free interaction with short-form video platforms using eye and facial gestures.
 
-EyeScroll uses **real-time facial landmark detection and gesture recognition** to translate eye movements and blinks into actions such as scrolling and interacting with short-form content.
+The system uses real-time facial landmark detection and gesture recognition
+to translate eye movements and blinks into actions such as scrolling and interaction.
 
 ### Key Features
 
-- 👁️ Eye-movement based navigation
-- 👀 Blink gesture detection
-- 🔄 Gesture-controlled scrolling
-- ❤️ Gesture-based interaction
-- 🎯 Configurable gesture mappings
-- ⚡ Real-time facial landmark processing
-- 📱 Android accessibility integration
+- Eye-movement based navigation
+- Blink gesture detection
+- Gesture-controlled scrolling
+- Gesture-based interaction
+- Configurable gesture mappings
+- Real-time facial landmark processing
+- Android accessibility integration
 
-### Tech Stack
+### Technology
 
-`Flutter` `Dart` `Kotlin` `MediaPipe` `Face Landmarker`  
+`Flutter` `Dart` `Kotlin` `MediaPipe` `Face Landmarker`
+
 `Android Accessibility Service` `Computer Vision`
 
-🔗 **Repository:**  
+**Repository:**  
 https://github.com/Pranovraaj/Eyescroll
 
 ---
 
-## 🤟 SignSpeak — Real-Time Sign Language to Speech
+## SignSpeak — Real-Time Sign Language to Speech
 
-> A computer-vision based system designed to recognize sign language gestures and convert them into text and speech.
+**SignSpeak** is a computer-vision based system designed to recognize
+sign language gestures and convert them into text and speech.
 
-SignSpeak explores **real-time hand tracking and gesture recognition** to create a more accessible communication interface.
+The project explores real-time hand tracking and gesture recognition
+to build a more accessible communication interface.
 
 ### Key Features
 
-- 📷 Real-time hand tracking
-- ✋ Hand gesture recognition
-- 📝 Gesture → Text conversion
-- 🔊 Text-to-Speech output
-- 🧠 Computer vision processing
-- 🌐 Web-based interface
-- 📱 Cross-platform expansion
+- Real-time hand tracking
+- Hand gesture recognition
+- Gesture-to-text conversion
+- Text-to-speech output
+- Computer vision processing
+- Web-based interface
+- Cross-platform expansion
 
-### Tech Stack
+### Technology
 
-`React` `Vite` `JavaScript` `MediaPipe`  
+`React` `Vite` `JavaScript` `MediaPipe`
+
 `Computer Vision` `Machine Learning` `Text-to-Speech`
 
-🔗 **Repository:**  
+**Repository:**  
 https://github.com/Pranovraaj/sign-speak-frontend
 
 ---
 
-# 💼 Experience
+# Experience
 
 ### AI Agent Engineer Intern — eShipz
 
-- Developed an **MCP-based AI agent** integrating AI capabilities with logistics tracking APIs.
+- Developed an MCP-based AI agent integrating AI capabilities with logistics tracking APIs.
 - Built workflows for processing logistics and shipment-related queries.
 - Integrated external APIs to retrieve real-time tracking information.
-- Worked with **Model Context Protocol (MCP)** and AI-driven automation.
+- Worked with Model Context Protocol (MCP) and AI-driven automation.
 
 ### Android Developer Intern — Phoenix Softech
 
-- Developed Android applications using **Java**.
+- Developed Android applications using Java.
 - Implemented authentication and user workflows.
-- Integrated **GPS tracking and camera functionality**.
-- Worked with **SQLite** for local data persistence.
+- Integrated GPS tracking and camera functionality.
+- Worked with SQLite for local data persistence.
 
 ---
 
-# 🧠 Problem Solving
+# Problem Solving
 
-I actively practice Data Structures & Algorithms on LeetCode, focusing on developing efficient problem-solving skills and understanding different approaches to algorithmic problems.
+I regularly practice Data Structures and Algorithms on LeetCode, focusing on
+efficient problem solving and strengthening core algorithmic concepts.
 
 ### LeetCode
 
-- 🧩 **400+ solutions** across Java, C++ and MySQL
-- ☕ **197 Java solutions**
-- ⚡ **174 C++ solutions**
-- 🗄️ **49 MySQL solutions**
-- 🔥 Strong focus on Arrays, Hashing, Strings, Two Pointers and Dynamic Programming
-- 🏅 Multiple LeetCode badges
+- 400+ solutions across Java, C++ and MySQL
+- Strong practice in Arrays, Hashing, Strings, Two Pointers and Dynamic Programming
+- Consistent problem-solving activity throughout the year
 
-### Core Areas
-
-`Arrays` `Strings` `Hashing` `Two Pointers`  
-`Dynamic Programming` `Backtracking` `Sorting & Searching`  
-`Graphs` `Trees` `Math` `SQL`
-
-<p align="left">
+<p align="center">
   <a href="https://leetcode.com/u/pranov_raaj__30/">
-    <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img
+      src="https://leetcode-stats-six.vercel.app/pranov_raaj__30?theme=dark"
+      alt="Pranov Raaj LeetCode Statistics"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/pranov_raaj__30">
+    View LeetCode Profile →
   </a>
 </p>
 
 ---
 
-# 🏆 Highlights
+# LeetCode Activity
 
-- 💻 Built and deployed backend and AI-powered applications
-- 🤖 Developed projects involving **Computer Vision and AI**
-- 🧩 **400+ LeetCode solutions** across multiple languages
-- 🔌 Experience integrating APIs and AI-agent workflows
-- 🏀 Competitive basketball and netball player
-- 🏅 Participated in state and national-level sporting competitions
+<p align="center">
+  <a href="https://leetcode.com/u/pranov_raaj__30/">
+    <img
+      src="https://leetcode-stats-six.vercel.app/pranov_raaj__30/graph?theme=dark&width=900"
+      alt="Pranov Raaj LeetCode Submission Activity"
+    />
+  </a>
+</p>
 
 ---
 
-# 🎯 Current Focus
+# Highlights
+
+- Built backend and AI-powered applications
+- Developed real-time Computer Vision projects
+- 400+ LeetCode solutions across multiple technologies
+- Experience integrating APIs and AI-agent workflows
+- Experience with Java backend development and Android development
+- Competitive basketball and netball player
+- Participated in state and national-level sporting competitions
+
+---
+
+# Current Focus
 
 ```text
 Java & Spring Boot
@@ -189,41 +216,3 @@ System Design & Microservices
 Cloud & Deployment
         ↓
 AI-powered Software Systems
-```
-
-I'm currently strengthening my skills in **backend engineering, system design, cloud technologies, and AI integration** while building production-oriented projects.
-
----
-
-# 📌 What I Build
-
-```text
-Backend Systems       → Java • Spring Boot • REST APIs
-AI Applications       → AI/ML • Computer Vision • MCP
-Real-Time Systems     → MediaPipe • Gesture Recognition
-Mobile Applications   → Flutter • Android • Kotlin
-Cloud Applications    → AWS • Firebase • Docker
-Problem Solving       → DSA • LeetCode • Competitive Programming
-```
-
----
-
-# 🤝 Let's Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/pranov-raaj-/">
-    <img src="https://img.shields.io/badge/LinkedIn-Pranov%20Raaj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Pranovraaj">
-    <img src="https://img.shields.io/badge/GitHub-Pranovraaj-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://pranov-portfolio.web.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Pranov%20Raaj-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <b>Building practical software. Solving real problems. Learning continuously.</b>
-</p>
